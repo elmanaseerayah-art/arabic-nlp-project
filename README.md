@@ -1,3 +1,8 @@
+Project Overview
+
+This project develops an integrated Arabic NLP application using the AAFAQ dataset. I preprocessed Arabic text, classified user questions, generated suitable answers, and translated both questions and answers into English. I trained and compared traditional machine learning, deep learning, and transformer-based models, evaluated their performance, and integrated the final models into a simple user interface.
+
+
 ## Tools, Libraries, Models, and Techniques
 
 ### Programming and Development Tools
